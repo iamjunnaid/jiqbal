@@ -1,5 +1,6 @@
 # Wireless Communication Engineer
-#### Technical Skills: 4G/5G Technologies, Linux, Python, GIT, IP Networking
+#### Technical Skills: 5G/6G Technologies, Linux, Python, GIT, IP Networking
+### Contact me at [Linkedin](https://www.linkedin.com/in/junnaidiqbal/)
 
 ## Education & Credentials
 - M.Sc in Wireless Engg | University of Oulu (_Jul 2020_)
