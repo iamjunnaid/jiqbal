@@ -34,6 +34,7 @@ Dynamic and results-oriented professional with a strong background in telecommun
 - Utilized Git for seamless integration of the latest code updates and collaboration with team members.
 
 **Research Assistant @ University of Oulu (_Sept 2018 – Jul 2020_)**
+
 **NOC Engineer @ COMMTEL, Islamabad(_Aug 2016 – Jul 2018_)**
 
 ## Education & Credentials
