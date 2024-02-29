@@ -1,8 +1,9 @@
 # Telecom Engineer
 #### Technical Skills: 4G/5G Technologies, Linux, Python, GIT, IP Networking
-## Summary
-Dynamic and results-oriented professional with a strong background in telecommunications. Seeking a challenging role, where I can leverage my comprehensive skill set in 5G/6G technologies, Linux, Python, and automation along with proven experience in IP networking.
 
+## Education & Credentials
+- M.Sc in Wireless Communication Engineering (WCE) | University of Oulu (_Jul 2020_)
+- B.Sc in Electrical (Telecom) Engineering (BET) | COMSATS Islamabad (_Feb 2016_)
 
 ## Work Experience
 **Test Engineer @ Nokia (_Apr 2022 – Jan 2024_)**
@@ -17,31 +18,33 @@ Dynamic and results-oriented professional with a strong background in telecommun
 - Responsible for simulating beamweights (BWF) and Electromagnetic Fields (EMF) of various radio units, leveraging the AntMax tool (MATLAB) for precise simulations.
 - Utilized Git for seamless integration of the latest code updates and collaboration with team members.
 
-** Research Assistant @ University of Oulu (_Sept 2018 – Jul 2020_)**
--
+**Research Assistant @ University of Oulu (_Sept 2018 – Jul 2020_)**
 
-** NOC Engineer @ COMMTEL, Islamabad(_Aug 2016 – Jul 2018_)**
--
+**NOC Engineer @ COMMTEL, Islamabad(_Aug 2016 – Jul 2018_)**
 
-## Education & Credentials
-- M.Sc in Wireless Communication Engineering (WCE) | University of Oulu (_Jul 2020_)
-- B.Sc in Electrical (Telecom) Engineering (BET) | COMSATS Islamabad (_Feb 2016_)
+## Projects
+- **[EasyCorner - Safety of a biker around Blind Corners](https://ubicomp.oulu.fi/UBISS2019)**
+    - Worked in a 3-person team as the project dealt with the integration of IoT technologies to formulate a mechanism to minimize the road accidents of bikers around blind corners. The prototype of EasyCorner was presented at UBISS 2019, the 10th International UBI Summer School 2019, and won the distinguished award.
 
-### Summer School
-- UBISS 2019, 10th International UBI Summer School 2019 (06/2019)
+- **[PennyWisey](https://pennywisey.com) - Personal Finance Blog**
+    - I actively manage a personal finance blog where I share insights and strategies on effective money management and financial planning. Through practical tips and experiences, I aim to empower individuals to make informed decisions about their finances and achieve their financial goals.
+
+
+## Summer School
+- [UBISS 2019, 10th International UBI Summer School 2019 (06/2019)](https://ubicomp.oulu.fi/UBISS2019)
     - Learned about the protocols of Telecommunication technologies i.e., LTE, Cloud, and 5G.
     - Developed an Embedded Hardware System Project (received Distinction Award). Technology/Tools: Zigbee and FPGA
 
 ## Publication
-- Asad Ullah, M.; Iqbal, J.; Hoeller, A.; Souza, R.D.; Alves, H. K-Means Spreading Factor Allocation for Large-Scale LoRa Networks. Sensors 2019, 19, 4723
+- Asad Ullah, M.; Iqbal, J.; Hoeller, A.; Souza, R.D.; Alves, H. [K-Means Spreading Factor Allocation for Large-Scale LoRa Networks. Sensors 2019, 19, 4723](https://www.mdpi.com/1424-8220/19/21/4723)
 
 ## Online Courses
-- “Crash Course on Python” from Google
-- “Python for Everybody Specialization” from the University of Michigan
-- “Using Databases with Python” from the University of Michigan
+- “[Crash Course on Python](https://www.coursera.org/account/accomplishments/verify/8ZZXGTVC4NKM?utm_campaign=copybutton_certificate&utm_content=cert_image&utm_medium=certificate&utm_source=link)” from Google
+- “[Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/GW8NH2DAKPYQ)” from the University of Michigan
+- “[Using Databases with Python](https://www.coursera.org/account/accomplishments/certificate/3KDV33WB86AZ)” from the University of Michigan
 
 ## Presentation Experience
-- “Success Story” - Interviewed with Oulu TalentHub to Attract International Students/Professionals [Youtube]
+- “[Success Story](https://www.youtube.com/watch?v=N24SsOPkJBc&ab_channel=Oulunkaupunki)” - Interviewed with Oulu TalentHub to Attract International Students/Professionals
 - “Pakistan Day” - Presented Pakistani Culture to Nokia Colleagues
-- “Personal Experience” – Shared personal experience on Webinar to International Community in Oulu
+- “Personal Experience” – Shared personal experience on Webinar to the International Community in Oulu
 
