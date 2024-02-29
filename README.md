@@ -2,8 +2,8 @@
 #### Technical Skills: 4G/5G Technologies, Linux, Python, GIT, IP Networking
 
 ## Education & Credentials
-- M.Sc in Wireless Communication Engineering (WCE) | University of Oulu (_Jul 2020_)
-- B.Sc in Electrical (Telecom) Engineering (BET) | COMSATS Islamabad (_Feb 2016_)
+- M.Sc in Wireless Engg | University of Oulu (_Jul 2020_)
+- B.Sc in Electrical Engg | COMSATS Islamabad (_Feb 2016_)
 
 ## Work Experience
 - **Test Engineer @ Nokia (_Apr 2022 – Jan 2024_)**
