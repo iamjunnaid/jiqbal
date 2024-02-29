@@ -4,20 +4,11 @@
 Dynamic and results-oriented professional with a strong background in telecommunications. Seeking a challenging role, where I can leverage my comprehensive skill set in 5G/6G technologies, Linux, Python, and automation along with proven experience in IP networking.
 
 ## Core Proficiencies
-- Linux
-- 4G/5G protocol testing
-- Python, MATLAB
-- Power BI
-- C
-- Drone License: A1/A3 and A2
-- Logs Collection Tools: Nemo Outdoor, Wireshark
-- Logs Analysis Tools: Nemo Analyze, ELT
-- Bash Scripting
-- Robot Framework
-- IP Networking (L2/L3)
-- GIT
-- Knowledge of Data Management and SQL
-- Visual Studio
+- Linux               | Python               | Power BI
+- 4G/5G protocol testing | MATLAB            | C
+- Drone License: A1/A3 and A2 | Logs Collection Tools: Nemo Outdoor, Wireshark | Logs Analysis Tools: Nemo Analyze, ELT
+- Bash Scripting       | Robot Framework       | IP Networking (L2/L3)
+- GIT                 | Knowledge of Data Management and SQL | Visual Studio
 - Soft Skills: Collaboration, Communication, and Analytical Skills
 
 ## Work Experience
@@ -34,8 +25,10 @@ Dynamic and results-oriented professional with a strong background in telecommun
 - Utilized Git for seamless integration of the latest code updates and collaboration with team members.
 
 **Research Assistant @ University of Oulu (_Sept 2018 – Jul 2020_)**
+-
 
 **NOC Engineer @ COMMTEL, Islamabad(_Aug 2016 – Jul 2018_)**
+-
 
 ## Education & Credentials
 - M.Sc in Wireless Communication Engineering (WCE) | University of Oulu (_Jul 2020_)
