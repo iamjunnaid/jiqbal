@@ -1,4 +1,4 @@
-# Telecom Engineer
+# Wireless Communication Engineer
 #### Technical Skills: 4G/5G Technologies, Linux, Python, GIT, IP Networking
 
 ## Education & Credentials
@@ -6,21 +6,21 @@
 - B.Sc in Electrical (Telecom) Engineering (BET) | COMSATS Islamabad (_Feb 2016_)
 
 ## Work Experience
-**Test Engineer @ Nokia (_Apr 2022 – Jan 2024_)**
-- Conducted LTE/5G trunk software regression testing in the Field (OuluZone-30 km outside Oulu) using drone technology and also in lab conditions, ensuring comprehensive coverage and quality assurance.
-- Collaborated with cross-functional teams to test automate two Sea Containers for a 5G network utilizing Robot Framework capabilities to ensure 48h testing requirements.
-- Participated in the execution of tests and reported results, utilizing findings to define standards that enhanced overall testing processes.
-- Applied Microsoft Excel for log data cleansing, and analyzing, and utilized Power BI's visualization capabilities to create concise and compelling charts, enabling stakeholders to make informed decisions based on data-driven insights.
-- Employed analytical and troubleshooting skills to optimize and maintain Nokia base station operations.
+- **Test Engineer @ Nokia (_Apr 2022 – Jan 2024_)**
+    - Conducted LTE/5G trunk software regression testing in the Field (OuluZone-30 km outside Oulu) using drone technology and also in lab conditions, ensuring comprehensive coverage and quality assurance.
+    - Collaborated with cross-functional teams to test automate two Sea Containers for a 5G network utilizing Robot Framework capabilities to ensure 48h testing requirements.
+    - Participated in the execution of tests and reported results, utilizing findings to define standards that enhanced overall testing processes.
+    - Applied Microsoft Excel for log data cleansing, and analyzing, and utilized Power BI's visualization capabilities to create concise and compelling charts, enabling stakeholders to make informed decisions based on data-driven insights.
+    - Employed analytical and troubleshooting skills to optimize and maintain Nokia base station operations.
 
-**System Simulation Engineer @ Nokia (_Dec 2020 – Mar 2022_)**
-- Served as a System Simulation Engineer, specializing in the development and deployment of 5G networks using Nokia products.
-- Responsible for simulating beamweights (BWF) and Electromagnetic Fields (EMF) of various radio units, leveraging the AntMax tool (MATLAB) for precise simulations.
-- Utilized Git for seamless integration of the latest code updates and collaboration with team members.
+- **System Simulation Engineer @ Nokia (_Dec 2020 – Mar 2022_)**
+    - Served as a System Simulation Engineer, specializing in the development and deployment of 5G networks using Nokia products.
+    - Responsible for simulating beamweights (BWF) and Electromagnetic Fields (EMF) of various radio units, leveraging the AntMax tool (MATLAB) for precise simulations.
+    - Utilized Git for seamless integration of the latest code updates and collaboration with team members.
 
-**Research Assistant @ University of Oulu (_Sept 2018 – Jul 2020_)**
+- **Research Assistant @ University of Oulu (_Sept 2018 – Jul 2020_)**
 
-**NOC Engineer @ COMMTEL, Islamabad(_Aug 2016 – Jul 2018_)**
+- **NOC Engineer @ COMMTEL, Islamabad(_Aug 2016 – Jul 2018_)**
 
 ## Projects
 - **[EasyCorner - Safety of a biker around Blind Corners](https://ubicomp.oulu.fi/UBISS2019)**
