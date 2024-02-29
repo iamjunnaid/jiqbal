@@ -30,10 +30,6 @@
     - I actively manage a personal finance blog where I share insights and strategies on effective money management and financial planning. Through practical tips and experiences, I aim to empower individuals to make informed decisions about their finances and achieve their financial goals.
 
 
-## Summer School
-- [UBISS 2019, 10th International UBI Summer School 2019 (06/2019)](https://ubicomp.oulu.fi/UBISS2019)
-    - Learned about the protocols of Telecommunication technologies i.e., LTE, Cloud, and 5G.
-    - Developed an Embedded Hardware System Project (received Distinction Award). Technology/Tools: Zigbee and FPGA
 
 ## Publication
 - Asad Ullah, M.; Iqbal, J.; Hoeller, A.; Souza, R.D.; Alves, H. [K-Means Spreading Factor Allocation for Large-Scale LoRa Networks. Sensors 2019, 19, 4723](https://www.mdpi.com/1424-8220/19/21/4723)
@@ -42,6 +38,14 @@
 - “[Crash Course on Python](https://www.coursera.org/account/accomplishments/verify/8ZZXGTVC4NKM?utm_campaign=copybutton_certificate&utm_content=cert_image&utm_medium=certificate&utm_source=link)” from Google
 - “[Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/GW8NH2DAKPYQ)” from the University of Michigan
 - “[Using Databases with Python](https://www.coursera.org/account/accomplishments/certificate/3KDV33WB86AZ)” from the University of Michigan
+## Licenses
+- Drone Operator A1/A3 (_Trafficom, FI_)
+- Drone Operator A2 (_RDW, NL_)
+
+## Summer School
+- [UBISS 2019, 10th International UBI Summer School 2019 (06/2019)](https://ubicomp.oulu.fi/UBISS2019)
+    - Learned about the protocols of Telecommunication technologies i.e., LTE, Cloud, and 5G.
+    - Developed an Embedded Hardware System Project (received Distinction Award). Technology/Tools: Zigbee and FPGA
 
 ## Presentation Experience
 - “[Success Story](https://www.youtube.com/watch?v=N24SsOPkJBc&ab_channel=Oulunkaupunki)” - Interviewed with Oulu TalentHub to Attract International Students/Professionals
