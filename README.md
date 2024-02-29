@@ -1,6 +1,6 @@
 # Wireless Communication Engineer
-#### Technical Skills: 5G/6G Technologies, Linux, Python, GIT, IP Networking
-- [LinkedIn](https://www.linkedin.com/in/junnaidiqbal/) , [E-mail](mailto:junnaid.iqbal@gmail.com?subject=[GitHub]%20Junnaid%20Iqbal)
+#### Technical Skills: _5G/6G Technologies, Linux, Python, GIT, IP Networking_
+- [LinkedIn](https://www.linkedin.com/in/junnaidiqbal/) , [E-mail](mailto:junnaid.iqbal@gmail.com?subject=[GitHub]%20Get%20in%20Touch)
 
 ## Education & Credentials
 - M.Sc in Wireless Engg | University of Oulu (_Jul 2020_)
