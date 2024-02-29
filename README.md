@@ -41,8 +41,8 @@
 - “[Using Databases with Python](https://www.coursera.org/account/accomplishments/certificate/3KDV33WB86AZ)” from the University of Michigan
 
 ## Licenses
-- Drone Operator A1/A3 (_Trafficom, FI_)
-- Drone Operator A2 (_RDW, NL_)
+- Drone Operator: **A1/A3** (_Trafficom, FI_)
+- Drone Operator: **A2** (_RDW, NL_)
 
 ## Summer School
 - [UBISS 2019, 10th International UBI Summer School 2019 (06/2019)](https://ubicomp.oulu.fi/UBISS2019)
