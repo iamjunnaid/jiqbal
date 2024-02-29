@@ -38,6 +38,7 @@
 - “[Crash Course on Python](https://www.coursera.org/account/accomplishments/verify/8ZZXGTVC4NKM?utm_campaign=copybutton_certificate&utm_content=cert_image&utm_medium=certificate&utm_source=link)” from Google
 - “[Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/GW8NH2DAKPYQ)” from the University of Michigan
 - “[Using Databases with Python](https://www.coursera.org/account/accomplishments/certificate/3KDV33WB86AZ)” from the University of Michigan
+
 ## Licenses
 - Drone Operator A1/A3 (_Trafficom, FI_)
 - Drone Operator A2 (_RDW, NL_)
