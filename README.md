@@ -1,7 +1,7 @@
-# Junnaid's Professional Profile
+# Telecom Engineer
 
 ## Summary
-Dynamic and results-oriented professional with a strong background in telecommunications. Seeking a challenging role as a Test Automation Engineer at u-box, where I can leverage my comprehensive skill set in software regression testing, Linux, Python, and automation along with proven experience of IP networking.
+Dynamic and results-oriented professional with a strong background in telecommunications. Seeking a challenging role, where I can leverage my comprehensive skill set in 5G/6G technologies, Linux, Python, and automation along with proven experience in IP networking.
 
 ## Core Proficiencies
 - Linux
@@ -21,7 +21,7 @@ Dynamic and results-oriented professional with a strong background in telecommun
 - Soft Skills: Collaboration, Communication, and Analytical Skills
 
 ## Work Experience
-### Test Engineer | Nokia, Oulu, FI (05/2022 – 01/2024)
+**Test Engineer @ Nokia, Oulu, FI (_05/2022 – _01/2024)
 - Conducted LTE/5G trunk software regression testing in Field (OuluZone-30 km outside Oulu) using drone technology and also in lab conditions, ensuring comprehensive coverage and quality assurance.
 - Collaborated cross-functional teams to test automate two Sea Containers for 5G network utilizing Robot Framework capabilities to ensure 48h testing requirements.
 - Participated in the execution of tests and reported results, utilizing findings to define standards that enhanced overall testing processes.
