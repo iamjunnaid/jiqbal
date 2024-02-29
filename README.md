@@ -30,8 +30,6 @@
 - **[PennyWisey](https://pennywisey.com) - Personal Finance Blog**
     - I actively manage a personal finance blog where I share insights and strategies on effective money management and financial planning. Through practical tips and experiences, I aim to empower individuals to make informed decisions about their finances and achieve their financial goals.
  
-![PennyWisey](/assets/Homepage.png)
-
 
 
 ## Publication
