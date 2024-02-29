@@ -1,5 +1,5 @@
-# Test Engineer
-## Technial Skills
+# Telecom Engineer
+## Technical Skills
 
 ### Education
 Wireless Communication
@@ -8,3 +8,5 @@ Wireless Communication
 Nokia
 University of Oulu
 Commtel
+
+### Side Jobs
