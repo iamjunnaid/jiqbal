@@ -44,6 +44,10 @@
 - Drone Operator: **A1/A3** (_Trafficom, FI_)
 - Drone Operator: **A2** (_RDW, NL_)
 
+## Freelance Work
+- [_Upwork_](https://www.upwork.com/freelancers/~01bd3735ac4891ece0?mp_source=share)
+- [_Fiverr_]( https://www.fiverr.com/junni966)
+
 ## Summer School
 - [UBISS 2019, 10th International UBI Summer School 2019 (06/2019)](https://ubicomp.oulu.fi/UBISS2019)
     - Learned about the protocols of Telecommunication technologies i.e., LTE, Cloud, and 5G.
