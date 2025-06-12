@@ -13,6 +13,7 @@
     - Executing manual and automated test cases across embedded platforms and integrated systems.
     - Collaborating with developers and stakeholders to ensure timely bug resolution and feature validation.
     - Working in Agile Scrum team; contributed to planning, sprint validation, and defect resolution cycles
+    **Key Technologies:** Manual Testing, Feature Validation, Embedded System Testing, Jira, Jenkins, Bug Identification
 
 - **Test Engineer @ Nokia (_Apr 2022 – Jan 2024_)**
     - Conducted LTE/5G trunk software regression testing in the Field (OuluZone-30 km outside Oulu) using drone technology and also in lab conditions, ensuring comprehensive coverage and quality assurance.
@@ -20,11 +21,13 @@
     - Participated in the execution of tests and reported results, utilizing findings to define standards that enhanced overall testing processes.
     - Applied Microsoft Excel for log data cleansing, and analyzing, and utilized Power BI's visualization capabilities to create concise and compelling charts, enabling stakeholders to make informed decisions based on data-driven insights.
     - Employed analytical and troubleshooting skills to optimize and maintain Nokia base station operations.
+    **Key Technologies:** 5G, Robot Framework, Python, Selenium, Bug Identification
 
 - **System Simulation Engineer @ Nokia (_Dec 2020 – Mar 2022_)**
     - Served as a System Simulation Engineer, specializing in the development and deployment of 5G networks using Nokia products.
     - Responsible for simulating beamweights (BWF) and Electromagnetic Fields (EMF) of various radio units, leveraging the AntMax tool (MATLAB) for precise simulations.
     - Utilized Git for seamless integration of the latest code updates and collaboration with team members.
+    **Key Technologies:** SW Development, Python, MATLAB, Git, Linux
 
 - **Research Assistant @ University of Oulu (_Sept 2018 – Jul 2020_)**
 
@@ -32,7 +35,7 @@
 
 ## Projects
 - **[EasyCorner - Safety of a biker around Blind Corners](https://ubicomp.oulu.fi/UBISS2019)**
-    - Worked in a 3-person team as the project dealt with the integration of IoT technologies to formulate a mechanism to minimize the road accidents of bikers around blind corners. The prototype of EasyCorner was presented at UBISS 2019, the 10th International UBI Summer School 2019, and won the distinguished award.
+    - Worked in a 3-person team as the project dealt with the integration of IoT technologies to formulate a mechanism to minimise the road accidents of bikers around blind corners. The prototype of EasyCorner was presented at UBISS 2019, the 10th International UBI Summer School 2019, and won the distinguished award.
 
 - **[PennyWisey](https://pennywisey.com) - Personal Finance Blog**
     - I actively manage a personal finance blog where I share insights and strategies on effective money management and financial planning. Through practical tips and experiences, I aim to empower individuals to make informed decisions about their finances and achieve their financial goals.
@@ -53,7 +56,6 @@
 
 ## Freelance Work
 - [_Upwork_](https://www.upwork.com/freelancers/~01bd3735ac4891ece0?mp_source=share)
-- [_Fiverr_]( https://www.fiverr.com/junni966)
 
 ## Summer School
 - [UBISS 2019, 10th International UBI Summer School 2019 (06/2019)](https://ubicomp.oulu.fi/UBISS2019)
