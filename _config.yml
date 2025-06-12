@@ -1,8 +1,7 @@
 title: Junnaid Iqbal
 logo: /assets/junnaid_head_circular.png
 #description: Contact me at LinkedIn: /junnaidiqbal
+favicon: /assets/Favicon_JI.png
 show_downloads: true
 theme: jekyll-theme-minimal
-body{
-    background-image: /assets/junnaid_head_circular.png
-    }
+
