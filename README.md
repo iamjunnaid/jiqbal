@@ -7,6 +7,13 @@
 - B.Sc in Electrical Engg | COMSATS Islamabad (_Feb 2016_)
 
 ## Work Experience
+- **Test Automation Engineer @ Joppyl (_Mar 2025 – Present_)**
+  Working as a Test Automation Engineer subcontracted to **[KONE](https://www.kone.com/en/)**, specialising in elevator and escalator control systems. My primary responsibilities include:
+    - Conducting system-level testing, feature validation, and firmware/software upgrades.
+    - Executing manual and automated test cases across embedded platforms and integrated systems.
+    - Collaborating with developers and stakeholders to ensure timely bug resolution and feature validation.
+    - Working in Agile Scrum team; contributed to planning, sprint validation, and defect resolution cycles
+
 - **Test Engineer @ Nokia (_Apr 2022 – Jan 2024_)**
     - Conducted LTE/5G trunk software regression testing in the Field (OuluZone-30 km outside Oulu) using drone technology and also in lab conditions, ensuring comprehensive coverage and quality assurance.
     - Collaborated with cross-functional teams to test automate two Sea Containers for a 5G network utilizing Robot Framework capabilities to ensure 48h testing requirements.
