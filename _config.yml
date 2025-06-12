@@ -3,3 +3,5 @@ logo: /assets/junnaid_head_circular.png
 #description: Contact me at LinkedIn: /junnaidiqbal
 show_downloads: true
 theme: jekyll-theme-minimal
+body{
+    background-image: /assets/junnaid_head_circular.png
