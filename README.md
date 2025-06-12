@@ -16,7 +16,7 @@
 
 - **Test Engineer @ Nokia (_Apr 2022 – Jan 2024_)**
     - Conducted LTE/5G trunk software regression testing in the Field (OuluZone-30 km outside Oulu) using drone technology and also in lab conditions, ensuring comprehensive coverage and quality assurance.
-    - Collaborated with cross-functional teams to test automate two Sea Containers for a 5G network utilizing Robot Framework capabilities to ensure 48h testing requirements.
+    - Collaborated with cross-functional teams to test and automate two Sea Containers for a 5G network utilising Robot Framework capabilities to ensure 48h testing requirements.
     - Participated in the execution of tests and reported results, utilizing findings to define standards that enhanced overall testing processes.
     - Applied Microsoft Excel for log data cleansing, and analyzing, and utilized Power BI's visualization capabilities to create concise and compelling charts, enabling stakeholders to make informed decisions based on data-driven insights.
     - Employed analytical and troubleshooting skills to optimize and maintain Nokia base station operations.
