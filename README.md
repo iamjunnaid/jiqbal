@@ -1,5 +1,5 @@
 # Wireless Communication Engineer
-#### Technical Skills: _5G/6G Technologies, Linux, Python, GIT, IP Networking_
+#### Technical Skills: _5G/6G Technologies, Java, Linux, Python, GIT, Robot Framework_
 - [LinkedIn](https://www.linkedin.com/in/junnaidiqbal/) , [E-mail](mailto:junnaid.iqbal@gmail.com?subject=[GitHub]%20Get%20in%20Touch)
 
 ## Education & Credentials
@@ -7,7 +7,16 @@
 - B.Sc in Electrical Engg | COMSATS Islamabad (_Feb 2016_)
 
 ## Work Experience
-- **Test Automation Engineer @ Joppyl (_Mar 2025 – Present_)**
+- **Software Development Engineer in Test @ Verifone (_Nov 2025 – Present_)**
+  Responsible for the testing and quality assurance of payment service features and core platform builds, ensuring stability, security, and reliability of Verifone payment solutions across the Nordics & Baltics region. My primary responsibilities include:
+    - Conduct automated and manual testing for new features and core builds, supporting continuous delivery of secure payment services.
+    - Develop and maintain Java-based test automation and integrate test suites into CI/CD pipelines.
+    - Perform functional, integration, and performance testing to validate system behaviour under real-world conditions.
+    - Investigate application logs and test results on Linux-based environments to identify and resolve defects.
+    - Support and maintain test environments, collaborating closely with development and DevOps teams to improve overall system quality.
+    - **Key Technologies:** Java, Linux, PostgreSQL, CI/CD, Robot Framework, Payment Services, Automation Testing, Performance Testing
+
+- **Test Automation Engineer @ Joppyl (_Mar 2025 – Sept_)**
   Working as a Test Automation Engineer subcontracted to **[KONE](https://www.kone.com/en/)**, specialising in elevator and escalator control systems. My primary responsibilities include:
     - Conducting system-level testing, feature validation, and firmware/software upgrades.
     - Executing manual and automated test cases across embedded platforms and integrated systems.
