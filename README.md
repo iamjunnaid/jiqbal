@@ -16,7 +16,7 @@
     - Support and maintain test environments, collaborating closely with development and DevOps teams to improve overall system quality.
     - **Key Technologies:** Java, Linux, PostgreSQL, CI/CD, Robot Framework, Payment Services, Automation Testing, Performance Testing
 
-- **Test Automation Engineer @ Joppyl (_Mar 2025 – Sept_)**
+- **Test Automation Engineer @ Joppyl (_Mar 2025 – Sept 2025_)**
   - Working as a Test Automation Engineer subcontracted to **[KONE](https://www.kone.com/en/)**, specialising in elevator and escalator control systems. My primary responsibilities include:
     - Conducting system-level testing, feature validation, and firmware/software upgrades.
     - Executing manual and automated test cases across embedded platforms and integrated systems.
